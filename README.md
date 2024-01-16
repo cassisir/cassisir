@@ -1,4 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
+![Banner Image](./banner.png)
 
 ## Hey, I'm Ryan Cassisi 👋
 
