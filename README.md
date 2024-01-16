@@ -19,7 +19,7 @@ Looking for an internship !
 ---
 
 ### :computer: I'm Currently Learning
-- **Deep & Reinforecment Learning :** Studying neural networks, backpropagation, and more for diverse applications
+- **Deep & Reinforcement Learning :** Studying neural networks, backpropagation, and more for diverse applications
 - **Machine Learning :** Linear and logistic regression, General linear models, Cross validation and Bootsrap, Clustering...
 - **Data Visualization :** Covering data collection, cleaning, analysis and graphical representation.
 - **Data Engineering :** Scaping, NoSQL Database (MongoDB), Elastic Search, Flask...
