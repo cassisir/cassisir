@@ -5,7 +5,7 @@
 ### 🚀 **About Me :**
 
 Originally from Geneva, I came to Paris to pursue my passion for Artificial Intelligence !
-- Studying at **[ESIEE Paris](https://www.esiee.fr/en/)**, an engineering school within the **[University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/)**.
+- Studying at **[ESIEE Paris](https://www.esiee.fr/en/)**, an engineering school within **[Gustave Eiffel University](https://www.univ-gustave-eiffel.fr/en/)**.
 - Majoring in **Data Science & Artificial Intelligence**.
 - Passionate about the endless possibilities of AI.
 
