@@ -28,7 +28,7 @@ Looking for an internship !
 
 
 ### :gear: Currently Working on
-- Data Mining : AI-text-generated detection
+- Data Mining : AI-Generated text detection
 - Data engineering : Web scraping project
 
 #### :books: Check out some of my Github repositories
