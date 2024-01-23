@@ -1,6 +1,6 @@
 ![Banner Image](./banner.png)
 
-## Hey, I'm Ryan Cassisi 👋
+## Hello, I am Ryan Cassisi 👋
 
 ### 🚀 **About Me :**
 
