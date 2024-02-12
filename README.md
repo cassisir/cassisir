@@ -22,17 +22,17 @@ Looking for an internship !
 - **Deep & Reinforcement Learning :** Studying neural networks, backpropagation, and more for diverse applications
 - **Machine Learning :** Linear and logistic regression, General linear models, Cross validation and Bootsrap, Clustering...
 - **Data Visualization :** Covering data collection, cleaning, analysis and graphical representation.
-- **Data Engineering :** Scaping, NoSQL Database (MongoDB), Elastic Search, Flask...
+- **Data Engineering :** Scaping, NoSQL Database (MongoDB), Elastic Search...
 - **Algorithm Design :** Dynamic programming, Divide and Conquer, Complexity...
 - **DevOps :** Docker, Versioning with Git, Infrastructure as Code...
 
 
 ### :gear: Currently Working on
 - Data Mining : AI-Generated text detection
-- Data engineering : Web scraping project
+- Computer vision : Human Robot Collaboration
 
 #### :books: Check out some of my Github repositories
 
 - **[DeepLearning_FacialRecognition](https://github.com/cassisir/DeepLearning_Facial_Recognition)**
 - **[data_visualization_Detroit911_python](https://github.com/cassisir/data_visualization_Detroit911_Python)**
-- **[data_visualization_Detroit911_R](https://github.com/cassisir/data_visualization_Detroit911_R)**
+- **[DataEngineering-scraping_project](https://github.com/cassisir/DataEngineering-scraping_project)**
