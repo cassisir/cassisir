@@ -13,10 +13,6 @@ Originally from Geneva, I came to Paris to pursue my passion for Artificial Inte
 - **ryan.cassisi@outlook.com**
 - **[Linkedin](https://www.linkedin.com/in/ryan-cassisi)**
 
----
-> **Note** 👨‍🎓:
-Looking for an internship ! 
----
 
 ### :computer: I'm Currently Learning
 - **Deep & Reinforcement Learning :** Studying neural networks, backpropagation, and more for diverse applications
